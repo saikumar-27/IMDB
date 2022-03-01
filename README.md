@@ -1,6 +1,6 @@
 # IMDB
 
-### <a href= https://musing-goldberg-fae8e2.netlify.app/#/  target="_blank">**Live Demo 🚀**</a>
+### <a href= https://adoring-wescoff-199503.netlify.app/#/  target="_blank">**Live Demo 🚀**</a>
 
 ## Tech Stack
 
