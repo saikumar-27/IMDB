@@ -1,7 +1,5 @@
 # IMDB
 
-### <a href= https://saikumar-27.github.io/IMDB/  target="_blank">**Live Demo 🚀**</a>
-
 ## Tech Stack
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
