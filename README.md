@@ -1,6 +1,6 @@
 # IMDB
 
-### <a href=https://saikumar-27.github.io/Black_jack_Game/ target="_blank">**Live Demo 🚀**</a>
+### <a href= https://saikumar-27.github.io/IMDB/ target="_blank">**Live Demo 🚀**</a>
 
 ## Tech Stack
 
