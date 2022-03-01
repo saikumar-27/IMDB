@@ -1,5 +1,7 @@
 # IMDB
 
+### <a href= https://musing-goldberg-fae8e2.netlify.app/#/  target="_blank">**Live Demo 🚀**</a>
+
 ## Tech Stack
 
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
