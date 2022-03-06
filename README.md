@@ -1,6 +1,6 @@
 # IMDB
 
-### <a href= https://adoring-wescoff-199503.netlify.app/#/  target="_blank">**Live Demo 🚀**</a>
+### <a href= https://suspicious-thompson-81c979.netlify.app/#/  target="_blank">**Live Demo 🚀**</a>
 
 ## Tech Stack
 
