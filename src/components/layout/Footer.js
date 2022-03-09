@@ -10,7 +10,7 @@ function Footer() {
             <span className="text-warning font-weight-normal">
               {" "}
               <a
-                href="https://github.com/saikumar-27"
+                href="https://linkedin.com/in/s-sai-kumar-yadav-a9a694232/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
