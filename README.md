@@ -1,6 +1,6 @@
 # IMDB
 
-### <a href= https://suspicious-thompson-81c979.netlify.app/#/  target="_blank">**Live Demo 🚀**</a>
+### <a href= https://hungry-roentgen-adb210.netlify.app  target="_blank">**Live Demo 🚀**</a>
 
 ## Tech Stack
 
